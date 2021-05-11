@@ -1,4 +1,4 @@
-https://jayu-9.github.io/travel/
+https://jayu-9.github.io/travell/
 <!DOCTYPE html>
 <html lang="en">
   <head>
